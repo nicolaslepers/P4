@@ -1,0 +1,4 @@
+User-agent: *
+
+allow: /index.html
+allow: /pages2.html
