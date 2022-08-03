@@ -926,7 +926,7 @@ h4 {
 .cite
 {font-family: "helvetica";
     font-size: 25px;
-color: rgb(209, 209, 209);}
+color: black(209, 209, 209);}
 
 .cite__p{font-family: "helvetica";
     word-spacing: -.1ch;
@@ -937,7 +937,6 @@ color: rgb(209, 209, 209);}
 }
 
 .cite__p_pdg{
-    color: black;
     font-size: 25px; 
 }
 
