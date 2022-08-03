@@ -656,6 +656,10 @@ a[data-lightbox]:hover img {
     flex-direction: column;
 }
 
+.col-sm-12{
+    color: white;
+}
+
 h1,
 h2,
 h3,
@@ -759,7 +763,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: white!important;
 }
 
 .portfolio-thumb {
