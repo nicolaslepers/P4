@@ -917,7 +917,7 @@ h4 {
 
 .desc{
     font-family: "helvetica";
-    color: grey;
+    color: white;
     font-weight: 600;
     font-size: 20px;
     word-spacing: -.1ch;
@@ -937,12 +937,15 @@ color: rgb(209, 209, 209);}
 }
 
 .cite__p_pdg{
-    font-size: 25px;
+    font-size: 25px; 
 }
 
-.footer{font-size: 17px;
+.footer{font-size: 20px;
+    color: white;
         }
-
+.footer_li{
+    color: white;
+}
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
