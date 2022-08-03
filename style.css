@@ -688,6 +688,7 @@ cite{
     font-size: 36px;
 }
 
+
 .statement-bloc-text {
     line-height: 26px;
     font-style: italic;
@@ -941,11 +942,13 @@ color: black(209, 209, 209);}
 }
 
 .footer{font-size: 20px;
-    color: white;
+    color: white!important;
         }
 .footer_li{
-    color: white;
+    color: white!important;
 }
+
+
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
