@@ -939,6 +939,9 @@ color: rgb(209, 209, 209);}
     font-size: 25px;
 }
 
+.footer{font-size: 17px;
+        }
+
 @media (max-width: 767px) {
     .page-container {
         overflow-x: hidden;
