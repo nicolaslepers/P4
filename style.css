@@ -1032,6 +1032,7 @@ color: black(209, 209, 209);}
     .navbar-brand img {
         max-height: 40px;
         width: auto;
+        height: auto;
     }
     .nav-invert .navbar-header {
         float: none;
